@@ -12,7 +12,7 @@ All WSP require the identification of an Area of Interest (AOI). On a simple lev
 
 Defining AOI's
 ----------------
-
+For WSP defining an AOI is almost always the starting point. Generally, AOI's are defined in a spatially explicit way based on landscape features or landownership. If you are starting a WSP project HERE 
 
 Landscape Classification
 ----------------
